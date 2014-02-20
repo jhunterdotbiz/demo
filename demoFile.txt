@@ -6,6 +6,7 @@ Oh yeah…
 
 What's going on
 
+<<<<<<< HEAD
 This can't be life
 
 Chea!!!
@@ -17,7 +18,6 @@ Don't really know what to do now
 I want to go take dance class
 
 This racial divide in this class is wack!!
-
-Real G's
-
-Keep it G
+=======
+This can't be life
+>>>>>>> parent of c9bcdbd... Couple more
